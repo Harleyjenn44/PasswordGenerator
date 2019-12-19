@@ -1,0 +1,15 @@
+#main{
+    margin: 20px;
+    text-align: center;
+    border-style: solid;
+}
+
+#textBox{
+    width: 800px;
+    height: 200px;
+    text-align: center;
+    border-style: dotted;
+}
+h1{
+    text-align: center;
+}
